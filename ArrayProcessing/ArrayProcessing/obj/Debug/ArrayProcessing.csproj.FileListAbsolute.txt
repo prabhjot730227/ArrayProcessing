@@ -1,0 +1,7 @@
+U:\Users\730227\ArrayProcessing\ArrayProcessing\ArrayProcessing\bin\Debug\ArrayProcessing.exe.config
+U:\Users\730227\ArrayProcessing\ArrayProcessing\ArrayProcessing\bin\Debug\ArrayProcessing.exe
+U:\Users\730227\ArrayProcessing\ArrayProcessing\ArrayProcessing\bin\Debug\ArrayProcessing.pdb
+U:\Users\730227\ArrayProcessing\ArrayProcessing\ArrayProcessing\obj\Debug\ArrayProcessing.csprojAssemblyReference.cache
+U:\Users\730227\ArrayProcessing\ArrayProcessing\ArrayProcessing\obj\Debug\ArrayProcessing.csproj.CoreCompileInputs.cache
+U:\Users\730227\ArrayProcessing\ArrayProcessing\ArrayProcessing\obj\Debug\ArrayProcessing.exe
+U:\Users\730227\ArrayProcessing\ArrayProcessing\ArrayProcessing\obj\Debug\ArrayProcessing.pdb
